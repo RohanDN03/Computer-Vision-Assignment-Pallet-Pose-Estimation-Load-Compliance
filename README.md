@@ -72,3 +72,7 @@ Assessing whether a single, downward-tilted side camera can verify the 8 warehou
 6.  **No Damaged Boxes:** *Not Verifiable.* The camera cannot see crushed boxes on the rear face of the pallet.
 7.  **Centroid Alignment:** *Verifiable.* Calculated via the global center of mass of the detected box array.
 8.  **Pallet Undamaged:** *Not Verifiable.* Split stringers under the load or on the rear face are completely occluded.
+
+## Deliverable Links
+* **Trained Model Weights:** [Click here to download best.pt](https://drive.google.com/file/d/1R8aR3c3CdG6O8PhwQH0TDIWF54cLYKbc/view?usp=sharing)
+* **Dataset:** [Click here to view the dataset](https://universe.roboflow.com/rj-xvfw4/pallet-ff5lh-fp7tw/dataset/1)
